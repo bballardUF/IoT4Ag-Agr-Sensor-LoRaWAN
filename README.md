@@ -24,11 +24,15 @@ ERC projects in progress at the University of Florida.
  
 # The project goals will be: 
 • Build additional 3 LoRaWAN modules for field deployment with environmental sensors. 
+
 • Repackage the existing and the new LoRaWAN units to be ruggedized for use in the field. 
+
 • Demonstrate LoRaWAN modules reporting data to the LoRaWAN base station in the Quincy, FL 
 IFAS agricultural research station. 
+
 • Characterize the transmission distance, data rate and power consumption of the LoRaWAN 
 modules   
+
 • Add solar power and/or a battery power supply capable of running the LoRaWAN modules for 
 six months.   
  
