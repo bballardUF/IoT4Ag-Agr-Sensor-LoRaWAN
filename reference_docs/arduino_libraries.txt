@@ -1,0 +1,12 @@
+Necessary Arduino Libraries:
+
+1. Adafruit AS726X by Adafruit
+2. Adafruit BusIO by Adafruit
+3. Adafruit seesaw Library by Adafruit
+4. Adafruit SSD1306 by Adafruit
+5. Adafruit Unified Sensor by Adafruit
+6. Heltec ESP32 Dev-Boards by Heltec Automation
+7. LoRa by Sandeep Mistry
+8. SX126x-Arduino by Bernd Giesecke
+
+*other dependecies may not be included
