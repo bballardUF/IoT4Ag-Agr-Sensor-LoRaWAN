@@ -1,4 +1,4 @@
-Necessary Arduino Libraries:
+# Necessary Arduino Libraries:
 
 1. Adafruit AS726X by Adafruit
 2. Adafruit BusIO by Adafruit
