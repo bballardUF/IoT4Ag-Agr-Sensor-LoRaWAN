@@ -1,5 +1,5 @@
 # LoRaWAN for Agricultural Sensors
-General NSF research grant goals: 
+# General NSF research grant goals: 
 The aim of the overall research project is to develop LoRaWAN communications for agricultural sensors. 
 LoRaWAN is becoming a standard long distance (up 13 km) communication method for sensors on farms 
 in remote locations. This project will work to interface custom LoRaWAN modules with a LoRaWAN 
@@ -9,7 +9,7 @@ of sensor data. There will be strong collaboration with this project and sensor 
 for multiple IoT4Ag projects. Careful measurement of the LoRaWAN communications performance in 
 the field is a deliverable of this project.  
  
-Specific Goals for this student Design 2 research project: 
+# Specific Goals for this student Design 2 research project: 
 In this Design 2 research project, the student will deploy a custom PCB board and provide working 
 software that combines a 3rd generation particle industries processor module (Argon or Boron), a 
 LoRaWAN long range radio module for long distance communications, and a soil sensor installed within 
@@ -22,7 +22,7 @@ power programming and power supply cycling to turn the processor and RF modules 
 conserve power and extend battery life. The work on this project will be useful for multiple NSF IoT4Ag 
 ERC projects in progress at the University of Florida. 
  
-The project goals will be: 
+# The project goals will be: 
 • Build additional 3 LoRaWAN modules for field deployment with environmental sensors. 
 • Repackage the existing and the new LoRaWAN units to be ruggedized for use in the field. 
 • Demonstrate LoRaWAN modules reporting data to the LoRaWAN base station in the Quincy, FL 
@@ -32,4 +32,4 @@ modules
 • Add solar power and/or a battery power supply capable of running the LoRaWAN modules for 
 six months.   
  
-Contact Information: Prof. Bill Eisenstadt, wre@tec.ufl.edu 
+# Contact Information: Prof. Bill Eisenstadt, wre@tec.ufl.edu 
