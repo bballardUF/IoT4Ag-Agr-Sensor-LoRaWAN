@@ -1,1 +1,2 @@
-# IoT4Ag-Agr-Sensor-LoRaWAN
+# LoRaWAN for Agricultural Sensors
+# 
